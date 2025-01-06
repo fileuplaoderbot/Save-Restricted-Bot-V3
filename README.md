@@ -3,7 +3,7 @@
 </h1>
 
 
-Contact: [Telegram](https://t.me/safe_repo_bot)
+Contact: [Telegram](https://t.me/MovieHorn_ContactRobot)
 
 ---
 
@@ -115,6 +115,6 @@ Visit [Terms](https://github.com/safe-repo/Save-Restricted-Content-Safe-Bot/blob
 **Note**: Changing the terms and commands doesn't magically make you a developer. Real development involves understanding the code, writing new functionalities, and debugging issues, not just renaming things. If only it were that easy!
 
 ## Contributers
-My group members contact... Join @safe_repo to know them.
+My group members contact... Join @Movie_Horn to know them.
 
 Thanks!
