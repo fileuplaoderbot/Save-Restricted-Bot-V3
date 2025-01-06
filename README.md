@@ -33,7 +33,7 @@ This branch is purely based on `Pyrogram V2` with more stability And this is bas
 - auto pin messages(if they are pinned)
 - login via phone number
 
-## Deploying Guide - [SAFE REPO](https://t.me/safe_repo)
+## Deploying Guide - [SAFE REPO](https://t.me/Movie_Horn)
 
 ### How to get required vars
  
@@ -92,7 +92,7 @@ python3 -m safe_repo
 - Done ✅
 
 ## Terms of USE / Modification 
-Visit [Terms](https://github.com/safe-repo/Save-Restricted-Content-Safe-Bot/blob/master/TERMS_OF_USE.md) and accept the guidelines.
+Visit [Terms](https://github.com/fileuplaoderbot/Save-Restricted-Bot-V3/blob/main/TERMS_OF_USE.md) and accept the guidelines.
 
 # Updates
 ## Update: 16 Aug 2024
